@@ -6,7 +6,7 @@ molecool
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master)
 
 A python package for analyzing and visualizing xyz file. For MolSSI Best Practices Workshop
-
+This is an example of a CMS python package created for the Buffalo 2020 bootcamp
 ### Copyright
 
 Copyright (c) 2020, Nicholas Stavinski
