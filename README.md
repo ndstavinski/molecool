@@ -16,3 +16,9 @@ Copyright (c) 2020, Nicholas Stavinski
  
 Project based on the 
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.1.
+
+This repository is currently under development. To do a developmental install, download this repo and type 
+
+'pip install -e .'
+
+in the repository directory
